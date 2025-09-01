@@ -6,6 +6,4 @@
 - **Program Studi** : Teknik Informatika
 - **Email** : irnakhalda@gmail.com
 ## 
-Repository ini berisi dokumentasi, project, dan catatan pembelajaran saya selama perkuliahan. 🚀
-
-```
+Repository ini berisi dokumentasi, project, dan catatan pembelajaran saya selama perkuliahan. 
